@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/PokemonTeam/unit06-game/unit06-game.csproj": {}
+    "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/Final/cse210-final/unit06-game/unit06-game.csproj": {}
   },
   "projects": {
-    "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/PokemonTeam/unit06-game/unit06-game.csproj": {
+    "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/Final/cse210-final/unit06-game/unit06-game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/PokemonTeam/unit06-game/unit06-game.csproj",
+        "projectUniqueName": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/Final/cse210-final/unit06-game/unit06-game.csproj",
         "projectName": "unit06-game",
-        "projectPath": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/PokemonTeam/unit06-game/unit06-game.csproj",
+        "projectPath": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/Final/cse210-final/unit06-game/unit06-game.csproj",
         "packagesPath": "/Users/masterwayne/.nuget/packages/",
-        "outputPath": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/PokemonTeam/unit06-game/obj/",
+        "outputPath": "/Users/masterwayne/Library/CloudStorage/OneDrive-BYU-Idaho/CSE 210/Final/cse210-final/unit06-game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/masterwayne/.nuget/NuGet/NuGet.Config"
